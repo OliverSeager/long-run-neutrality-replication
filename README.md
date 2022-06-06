@@ -2,7 +2,7 @@
 
 This body of code is for the first draft of the paper currently titled "Is Money Neutral in the Long-Run? The Investment Channel Beyond Plant, Property and Equipment."
 
-A lot of the code actually produces stuff that was left out of the paper or remained unfinished at the submission deadline. For example: 001c and 001d largely deal with calculating distance to default, which ran into constraints financing the requisite cloud computing; 003a and 003b constitute an (at the moment pretty poor) attempt to produce a patent-gvkey mapping in the spirit of Arora, Belenzon, and Sheer (2017); 003c maps Kogan et al. (2017) patent data to gvkeys.
+A lot of the code actually produces stuff that was left out of the paper or remained unfinished at the submission deadline. For example: 001c and 001d largely deal with calculating distance to default, which ran into constraints in financing the requisite cloud computing; 003a and 003b constitute an (at the moment pretty poor) attempt to produce a patent-gvkey mapping in the spirit of Arora, Belenzon, and Sheer (2017); 003c maps Kogan et al. (2017) patent data to gvkeys.
 
 002 is simply a replication of Ottonello and Winberry (2020) using my "exact calendar quarter" method of date-accounting in Compustat and contributes nothing to the paper.
 
